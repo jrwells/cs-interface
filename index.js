@@ -1,3 +1,5 @@
-module.exports = require('./lib/CSInterface.js');
-module.exports = require('./lib/Vulcan.js');
-module.exports = require('./lib/AgoraLib.js');
+module.exports = { 
+  'cs-interface': require('./lib/CSInterface.js'),
+        'vulcan': require('./lib/Vulcan.js'),
+     'agora-lib': require('./lib/AgoraLib.js')
+}
