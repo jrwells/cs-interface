@@ -1,3 +1,3 @@
-# Clipper Lib
+# CS Interface
 
-A simple NPM package wrapper for [the JS Clipper Library](https://sourceforge.net/p/jsclipper/wiki/).
+A simple NPM package wrapper for [Adobe's CEP](https://github.com/Adobe-CEP/CEP-Resources).
