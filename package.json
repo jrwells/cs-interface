@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jrwells/clipper-lib.git"
+    "url": "https://github.com/jrwells/cs-interface.git"
   },
   "description": "NPM package wrapper for Adobe's CSInterface for CEP",
   "main": "index.js",
